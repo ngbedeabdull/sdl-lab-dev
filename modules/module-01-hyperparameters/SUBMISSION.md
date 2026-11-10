@@ -320,3 +320,4 @@ A primary finding of this calibration lab is the stark contrast between dynamic 
 - [x] I kept the compulsory 'Learning How to Learn' benchmark prompt frozen across all 7 runs.
 - [x] I tested my calibrated sweet-spot parameters against the chosen elective domain track.
 - [x] I reviewed my submission against the 100-point rubric.
+
